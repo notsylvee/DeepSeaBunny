@@ -16,6 +16,7 @@ module.exports = {
       const item = items[Math.floor(Math.random() * items.length)];
 
       const embed = new EmbedBuilder()
+      .setColor(`5841cd`)
       .setTitle(`${item.name}`)
       .setThumbnail(`https://cdn.sylvee.xyz/${item.path}.png`)
 
