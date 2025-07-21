@@ -17,7 +17,6 @@ module.exports = {
 
       const embed = new EmbedBuilder()
       .setTitle(`${item.name}`)
-      .setDescription()
       .setThumbnail(`https://cdn.sylvee.xyz/${item.path}.png`)
 
       await interaction.reply({ embeds: [embed] });
