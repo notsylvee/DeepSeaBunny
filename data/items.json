@@ -1,0 +1,33 @@
+{
+    "items": [
+        { "name": "Flashlight", "path": "Flashlight" },
+        { "name": "Lantern", "path": "Lantern" },
+        { "name": "Flash Beacon", "path": "FlashBeacon" },
+        { "name": "Hand-Cranked Flashlight", "path": "HandCranked" },
+        { "name": "Blacklight", "path": "Blacklight" },
+        { "name": "Batteries", "path": "Battery" },
+        { "name": "Code Breacher", "path": "CodeBreacher" },
+        { "name": "Keycard", "path": "Keycard" },
+        { "name": "Purple Keycard", "path": "PurpleKeycard" },
+        { "name": "Ridge Keycard", "path": "RidgeKeycard" },
+        { "name": "Password Paper", "path": "PasswordPaper" },
+        { "name": "Medkit", "path": "Medkit" },
+        { "name": "Cocktail 'Perithesene'", "path": "Cocktail" },
+        { "name": "SPR-INT", "path": "SPRINT" },
+        { "name": "BL1 (Neloprephine)", "path": "BL1" },
+        { "name": "Party Special", "path": "PartySpecial" },
+        { "name": "Regular Drink", "path": "RegularDrink" },
+        { "name": "Ice's Brew", "path": "IcesBrew" },
+        { "name": "Gummylight", "path": "Gummylight" },
+        { "name": "Gravelight", "path": "Gravelight" },
+        { "name": "Splorglight", "path": "Splorglight" },
+        { "name": "Defibrillator", "path": "Defibrillator" },
+        { "name": "Sebastian's Scanner", "path": "Scanner" },
+        { "name": "Necrobloxicon", "path": "Necrobloxicon" },
+        { "name": "Dweller Chunk", "path": "DwellerChunk" },
+        { "name": "Decoder", "path": "Decoder" },
+        { "name": "Notebook", "path": "Notebook" },
+        { "name": "Z-432 \"Toy Remote\"", "path": "Z-432" },
+        { "name": "Z-432 \"Toy Remote\"", "path": "Z-432-B" }
+    ]
+}
