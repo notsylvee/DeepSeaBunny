@@ -1,0 +1,38 @@
+{
+    "bunnies": [
+        { "num": "1", "name": "Deep Sea Bunny", "description": "The classic!" },
+        { "num": "2", "name": "Copper Sea Bunny", "description": "I went searching for copper, and found coal" },
+        { "num": "3", "name": "Black & White Sea Bunny", "description": "White & Black" },
+        { "num": "4", "name": "Strawbunny", "description": "yummy..." },
+        { "num": "5", "name": "Tealy Sea Bunny", "description": "I'm made of teel" },
+        { "num": "6", "name": "Grey Sea Bunny", "description": "Based on actual Sea Bunnies!" },
+        { "num": "7", "name": "Deep Sea Kiwi", "description": "Tastes like kiwi" },
+        { "num": "8", "name": "Noir Sea Bunny", "description": "\"That was a joke, son.\" \"Can we shoot this guy, yet?\"" },
+        { "num": "9", "name": "Aurekian Sea Bunny", "description": "\u200b" },
+        { "num": "10", "name": "Sebunny", "description": "Sebastian's colour scheme!" },
+        { "num": "11", "name": "Pink Sea Bunny", "description": "So cute!!" },
+        { "num": "12", "name": "Deadly Sea Bunny", "description": "99% chance of killing its owner" },
+        { "num": "13", "name": "Beige Sea Bunny", "description": "In a bed. In a world where they have a Moon and lattes." },
+        { "num": "14", "name": "Deep Sea Beacon", "description": "Don't use your Flash Beacon" },
+        { "num": "15", "name": "Deep Sea Hazard", "description": "Ate a lot of radioactive materials" },
+        { "num": "16", "name": "Inverted Sea Bunny", "description": "ynnuB eaB peeD" },
+        { "num": "17", "name": "Deep Sea Popsicle", "description": "\u200b" },
+        { "num": "18", "name": "Deep Sea Melon", "description": "Tastes like watermelon" },
+        { "num": "19", "name": "Deep Sea Lapiz", "description": "Close enough to diamonds" },
+        { "num": "20", "name": "Rotten Sea Bunny", "description": "Eh, it's fine" },
+        { "num": "21", "name": "Deep Sea Friend", "description": "Nows Your Chance To Be A" },
+        { "num": "22", "name": "Deep Sea Drako", "description": "areugh" },
+        { "num": "23", "name": "So Retro!", "description": "I'm old!" }
+    ],
+    "cats": [
+        { "num": "1", "name": "Buck", "description": "\u200b" },
+        { "num": "2", "name": "Mannequin Cat", "description": "\u200b" },
+        { "num": "3", "name": "Orange Cat", "description": "\u200b" },
+        { "num": "4", "name": "Poob Cat", "description": "partyyyy!!" },
+        { "num": "5", "name": "Lamp Cat", "description": "\u200b" },
+        { "num": "6", "name": "Epic Cat", "description": "\u200b" },
+        { "num": "7", "name": "Kosheshka", "description": "\u200b" },
+        { "num": "8", "name": "Rave Cat", "description": "\u200b" },
+        { "num": "9", "name": "Kitty", "description": "\u200b" }
+    ]
+}
