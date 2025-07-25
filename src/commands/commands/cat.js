@@ -3,7 +3,7 @@ const fs = require("fs/promises");
 
 module.exports = {
     data: {
-        name: "bunny",
+        name: "cat",
         description: "Get a random Deep Sea Buddy Regretevator cat variant from Pressure",
         "integration_types": [0, 1],
         "contexts": [0, 1, 2]
