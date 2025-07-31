@@ -19,7 +19,7 @@ module.exports = {
       .setColor(`#5841cd`)
       .setTitle(`${item.name}`)
       .setDescription(`${item.description}`)
-      .setThumbnail(`https://cdn.sylvee.xyz/${item.path}.png`)
+      .setThumbnail(`https://cdn.sylvee.xyz/pressureitem${item.num}.png`)
 
       await interaction.reply({ embeds: [embed] });
     },
